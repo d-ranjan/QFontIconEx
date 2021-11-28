@@ -87,7 +87,7 @@ void MainWindow::onFontsChaged(int index)
     }
     m_qmCheetSheet.clear();
     int ver = ui->cbVersion->currentIndex() + 4;
-    if (ver == 0) {
+    if (ver == 4) {
         ui->cbType->setEnabled(false);
         ui->lbType->setEnabled(false);
         QFontIcon::addFont(":/fa-4.ttf");
