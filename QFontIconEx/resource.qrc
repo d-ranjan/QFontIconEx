@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fa-5-regular.ttf</file>
+        <file>fa-5-solid.ttf</file>
+        <file>cheetsheet-fa-5-regular.xml</file>
+        <file>cheetsheet-fa-5-solid.xml</file>
+        <file>cheetsheet-fa-4.xml</file>
+        <file>fa-4.ttf</file>
+        <file>fa-6-regular.ttf</file>
+        <file>fa-6-solid.ttf</file>
+        <file>cheetsheet-fa-6-solid.xml</file>
+        <file>cheetsheet-fa-6-regular.xml</file>
+    </qresource>
+</RCC>

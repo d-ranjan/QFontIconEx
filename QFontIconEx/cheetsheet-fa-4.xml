@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fonticons version="1.0" name="Cheet Sheet">
+    <icon name="500px" code="0xf26e"/>
+    <icon name="address-book" code="0xf2b9"/>
+    <icon name="address-book-o" code="0xf2ba"/>
+    <icon name="address-card" code="0xf2bb"/>
+    <icon name="address-card-o" code="0xf2bc"/>
+    <icon name="adjust" code="0xf042"/>
+    <icon name="adn" code="0xf170"/>
+    <icon name="align-center" code="0xf037"/>
+    <icon name="align-justify" code="0xf039"/>
+    <icon name="align-left" code="0xf036"/>
+    <icon name="align-right" code="0xf038"/>
+    <icon name="amazon" code="0xf270"/>
+    <icon name="ambulance" code="0xf0f9"/>
+    <icon name="american-sign-language-interpreting" code="0xf2a3"/>
+    <icon name="anchor" code="0xf13d"/>
+    <icon name="android" code="0xf17b"/>
+    <icon name="angellist" code="0xf209"/>
+    <icon name="angle-double-down" code="0xf103"/>
+    <icon name="angle-double-left" code="0xf100"/>
+    <icon name="angle-double-right" code="0xf101"/>
+    <icon name="angle-double-up" code="0xf102"/>
+    <icon name="angle-down" code="0xf107"/>
+    <icon name="angle-left" code="0xf104"/>
+    <icon name="angle-right" code="0xf105"/>
+    <icon name="angle-up" code="0xf106"/>
+    <icon name="apple" code="0xf179"/>
+    <icon name="archive" code="0xf187"/>
+    <icon name="area-chart" code="0xf1fe"/>
+    <icon name="arrow-circle-down" code="0xf0ab"/>
+    <icon name="arrow-circle-left" code="0xf0a8"/>
+    <icon name="arrow-circle-o-down" code="0xf01a"/>
+    <icon name="arrow-circle-o-left" code="0xf190"/>
+    <icon name="arrow-circle-o-right" code="0xf18e"/>
+    <icon name="arrow-circle-o-up" code="0xf01b"/>
+    <icon name="arrow-circle-right" code="0xf0a9"/>
+    <icon name="arrow-circle-up" code="0xf0aa"/>
+    <icon name="arrow-down" code="0xf063"/>
+    <icon name="arrow-left" code="0xf060"/>
+    <icon name="arrow-right" code="0xf061"/>
+    <icon name="arrow-up" code="0xf062"/>
+    <icon name="arrows" code="0xf047"/>
+    <icon name="arrows-alt" code="0xf0b2"/>
+    <icon name="arrows-h" code="0xf07e"/>
+    <icon name="arrows-v" code="0xf07d"/>
+    <icon name="asl-interpreting (alias)" code="0xf2a3"/>
+    <icon name="assistive-listening-systems" code="0xf2a2"/>
+    <icon name="asterisk" code="0xf069"/>
+    <icon name="at" code="0xf1fa"/>
+    <icon name="audio-description" code="0xf29e"/>
+    <icon name="automobile (alias)" code="0xf1b9"/>
+    <icon name="backward" code="0xf04a"/>
+    <icon name="balance-scale" code="0xf24e"/>
+    <icon name="ban" code="0xf05e"/>
+    <icon name="bandcamp" code="0xf2d5"/>
+    <icon name="bank (alias)" code="0xf19c"/>
+    <icon name="bar-chart" code="0xf080"/>
+    <icon name="bar-chart-o (alias)" code="0xf080"/>
+    <icon name="barcode" code="0xf02a"/>
+    <icon name="bars" code="0xf0c9"/>
+    <icon name="bath" code="0xf2cd"/>
+    <icon name="bathtub (alias)" code="0xf2cd"/>
+    <icon name="battery (alias)" code="0xf240"/>
+    <icon name="battery-0 (alias)" code="0xf244"/>
+    <icon name="battery-1 (alias)" code="0xf243"/>
+    <icon name="battery-2 (alias)" code="0xf242"/>
+    <icon name="battery-3 (alias)" code="0xf241"/>
+    <icon name="battery-4 (alias)" code="0xf240"/>
+    <icon name="battery-empty" code="0xf244"/>
+    <icon name="battery-full" code="0xf240"/>
+    <icon name="battery-half" code="0xf242"/>
+    <icon name="battery-quarter" code="0xf243"/>
+    <icon name="battery-three-quarters" code="0xf241"/>
+    <icon name="bed" code="0xf236"/>
+    <icon name="beer" code="0xf0fc"/>
+    <icon name="behance" code="0xf1b4"/>
+    <icon name="behance-square" code="0xf1b5"/>
+    <icon name="bell" code="0xf0f3"/>
+    <icon name="bell-o" code="0xf0a2"/>
+    <icon name="bell-slash" code="0xf1f6"/>
+    <icon name="bell-slash-o" code="0xf1f7"/>
+    <icon name="bicycle" code="0xf206"/>
+    <icon name="binoculars" code="0xf1e5"/>
+    <icon name="birthday-cake" code="0xf1fd"/>
+    <icon name="bitbucket" code="0xf171"/>
+    <icon name="bitbucket-square" code="0xf172"/>
+    <icon name="bitcoin (alias)" code="0xf15a"/>
+    <icon name="black-tie" code="0xf27e"/>
+    <icon name="blind" code="0xf29d"/>
+    <icon name="bluetooth" code="0xf293"/>
+    <icon name="bluetooth-b" code="0xf294"/>
+    <icon name="bold" code="0xf032"/>
+    <icon name="bolt" code="0xf0e7"/>
+    <icon name="bomb" code="0xf1e2"/>
+    <icon name="book" code="0xf02d"/>
+    <icon name="bookmark" code="0xf02e"/>
+    <icon name="bookmark-o" code="0xf097"/>
+    <icon name="braille" code="0xf2a1"/>
+    <icon name="briefcase" code="0xf0b1"/>
+    <icon name="btc" code="0xf15a"/>
+    <icon name="bug" code="0xf188"/>
+    <icon name="building" code="0xf1ad"/>
+    <icon name="building-o" code="0xf0f7"/>
+    <icon name="bullhorn" code="0xf0a1"/>
+    <icon name="bullseye" code="0xf140"/>
+    <icon name="bus" code="0xf207"/>
+    <icon name="buysellads" code="0xf20d"/>
+    <icon name="cab (alias)" code="0xf1ba"/>
+    <icon name="calculator" code="0xf1ec"/>
+    <icon name="calendar" code="0xf073"/>
+    <icon name="calendar-check-o" code="0xf274"/>
+    <icon name="calendar-minus-o" code="0xf272"/>
+    <icon name="calendar-o" code="0xf133"/>
+    <icon name="calendar-plus-o" code="0xf271"/>
+    <icon name="calendar-times-o" code="0xf273"/>
+    <icon name="camera" code="0xf030"/>
+    <icon name="camera-retro" code="0xf083"/>
+    <icon name="car" code="0xf1b9"/>
+    <icon name="caret-down" code="0xf0d7"/>
+    <icon name="caret-left" code="0xf0d9"/>
+    <icon name="caret-right" code="0xf0da"/>
+    <icon name="caret-square-o-down" code="0xf150"/>
+    <icon name="caret-square-o-left" code="0xf191"/>
+    <icon name="caret-square-o-right" code="0xf152"/>
+    <icon name="caret-square-o-up" code="0xf151"/>
+    <icon name="caret-up" code="0xf0d8"/>
+    <icon name="cart-arrow-down" code="0xf218"/>
+    <icon name="cart-plus" code="0xf217"/>
+    <icon name="cc" code="0xf20a"/>
+    <icon name="cc-amex" code="0xf1f3"/>
+    <icon name="cc-diners-club" code="0xf24c"/>
+    <icon name="cc-discover" code="0xf1f2"/>
+    <icon name="cc-jcb" code="0xf24b"/>
+    <icon name="cc-mastercard" code="0xf1f1"/>
+    <icon name="cc-paypal" code="0xf1f4"/>
+    <icon name="cc-stripe" code="0xf1f5"/>
+    <icon name="cc-visa" code="0xf1f0"/>
+    <icon name="certificate" code="0xf0a3"/>
+    <icon name="chain (alias)" code="0xf0c1"/>
+    <icon name="chain-broken" code="0xf127"/>
+    <icon name="check" code="0xf00c"/>
+    <icon name="check-circle" code="0xf058"/>
+    <icon name="check-circle-o" code="0xf05d"/>
+    <icon name="check-square" code="0xf14a"/>
+    <icon name="check-square-o" code="0xf046"/>
+    <icon name="chevron-circle-down" code="0xf13a"/>
+    <icon name="chevron-circle-left" code="0xf137"/>
+    <icon name="chevron-circle-right" code="0xf138"/>
+    <icon name="chevron-circle-up" code="0xf139"/>
+    <icon name="chevron-down" code="0xf078"/>
+    <icon name="chevron-left" code="0xf053"/>
+    <icon name="chevron-right" code="0xf054"/>
+    <icon name="chevron-up" code="0xf077"/>
+    <icon name="child" code="0xf1ae"/>
+    <icon name="chrome" code="0xf268"/>
+    <icon name="circle" code="0xf111"/>
+    <icon name="circle-o" code="0xf10c"/>
+    <icon name="circle-o-notch" code="0xf1ce"/>
+    <icon name="circle-thin" code="0xf1db"/>
+    <icon name="clipboard" code="0xf0ea"/>
+    <icon name="clock-o" code="0xf017"/>
+    <icon name="clone" code="0xf24d"/>
+    <icon name="close (alias)" code="0xf00d"/>
+    <icon name="cloud" code="0xf0c2"/>
+    <icon name="cloud-download" code="0xf0ed"/>
+    <icon name="cloud-upload" code="0xf0ee"/>
+    <icon name="cny (alias)" code="0xf157"/>
+    <icon name="code" code="0xf121"/>
+    <icon name="code-fork" code="0xf126"/>
+    <icon name="codepen" code="0xf1cb"/>
+    <icon name="codiepie" code="0xf284"/>
+    <icon name="coffee" code="0xf0f4"/>
+    <icon name="cog" code="0xf013"/>
+    <icon name="cogs" code="0xf085"/>
+    <icon name="columns" code="0xf0db"/>
+    <icon name="comment" code="0xf075"/>
+    <icon name="comment-o" code="0xf0e5"/>
+    <icon name="commenting" code="0xf27a"/>
+    <icon name="commenting-o" code="0xf27b"/>
+    <icon name="comments" code="0xf086"/>
+    <icon name="comments-o" code="0xf0e6"/>
+    <icon name="compass" code="0xf14e"/>
+    <icon name="compress" code="0xf066"/>
+    <icon name="connectdevelop" code="0xf20e"/>
+    <icon name="contao" code="0xf26d"/>
+    <icon name="copy (alias)" code="0xf0c5"/>
+    <icon name="copyright" code="0xf1f9"/>
+    <icon name="creative-commons" code="0xf25e"/>
+    <icon name="credit-card" code="0xf09d"/>
+    <icon name="credit-card-alt" code="0xf283"/>
+    <icon name="crop" code="0xf125"/>
+    <icon name="crosshairs" code="0xf05b"/>
+    <icon name="css3" code="0xf13c"/>
+    <icon name="cube" code="0xf1b2"/>
+    <icon name="cubes" code="0xf1b3"/>
+    <icon name="cut (alias)" code="0xf0c4"/>
+    <icon name="cutlery" code="0xf0f5"/>
+    <icon name="dashboard (alias)" code="0xf0e4"/>
+    <icon name="dashcube" code="0xf210"/>
+    <icon name="database" code="0xf1c0"/>
+    <icon name="deaf" code="0xf2a4"/>
+    <icon name="deafness (alias)" code="0xf2a4"/>
+    <icon name="dedent (alias)" code="0xf03b"/>
+    <icon name="delicious" code="0xf1a5"/>
+    <icon name="desktop" code="0xf108"/>
+    <icon name="deviantart" code="0xf1bd"/>
+    <icon name="diamond" code="0xf219"/>
+    <icon name="digg" code="0xf1a6"/>
+    <icon name="dollar (alias)" code="0xf155"/>
+    <icon name="dot-circle-o" code="0xf192"/>
+    <icon name="download" code="0xf019"/>
+    <icon name="dribbble" code="0xf17d"/>
+    <icon name="drivers-license (alias)" code="0xf2c2"/>
+    <icon name="drivers-license-o (alias)" code="0xf2c3"/>
+    <icon name="dropbox" code="0xf16b"/>
+    <icon name="drupal" code="0xf1a9"/>
+    <icon name="edge" code="0xf282"/>
+    <icon name="edit (alias)" code="0xf044"/>
+    <icon name="eercast" code="0xf2da"/>
+    <icon name="eject" code="0xf052"/>
+    <icon name="ellipsis-h" code="0xf141"/>
+    <icon name="ellipsis-v" code="0xf142"/>
+    <icon name="empire" code="0xf1d1"/>
+    <icon name="envelope" code="0xf0e0"/>
+    <icon name="envelope-o" code="0xf003"/>
+    <icon name="envelope-open" code="0xf2b6"/>
+    <icon name="envelope-open-o" code="0xf2b7"/>
+    <icon name="envelope-square" code="0xf199"/>
+    <icon name="envira" code="0xf299"/>
+    <icon name="eraser" code="0xf12d"/>
+    <icon name="etsy" code="0xf2d7"/>
+    <icon name="eur" code="0xf153"/>
+    <icon name="euro (alias)" code="0xf153"/>
+    <icon name="exchange" code="0xf0ec"/>
+    <icon name="exclamation" code="0xf12a"/>
+    <icon name="exclamation-circle" code="0xf06a"/>
+    <icon name="exclamation-triangle" code="0xf071"/>
+    <icon name="expand" code="0xf065"/>
+    <icon name="expeditedssl" code="0xf23e"/>
+    <icon name="external-link" code="0xf08e"/>
+    <icon name="external-link-square" code="0xf14c"/>
+    <icon name="eye" code="0xf06e"/>
+    <icon name="eye-slash" code="0xf070"/>
+    <icon name="eyedropper" code="0xf1fb"/>
+    <icon name="fa (alias)" code="0xf2b4"/>
+    <icon name="facebook" code="0xf09a"/>
+    <icon name="facebook-f (alias)" code="0xf09a"/>
+    <icon name="facebook-official" code="0xf230"/>
+    <icon name="facebook-square" code="0xf082"/>
+    <icon name="fast-backward" code="0xf049"/>
+    <icon name="fast-forward" code="0xf050"/>
+    <icon name="fax" code="0xf1ac"/>
+    <icon name="feed (alias)" code="0xf09e"/>
+    <icon name="female" code="0xf182"/>
+    <icon name="fighter-jet" code="0xf0fb"/>
+    <icon name="file" code="0xf15b"/>
+    <icon name="file-archive-o" code="0xf1c6"/>
+    <icon name="file-audio-o" code="0xf1c7"/>
+    <icon name="file-code-o" code="0xf1c9"/>
+    <icon name="file-excel-o" code="0xf1c3"/>
+    <icon name="file-image-o" code="0xf1c5"/>
+    <icon name="file-movie-o (alias)" code="0xf1c8"/>
+    <icon name="file-o" code="0xf016"/>
+    <icon name="file-pdf-o" code="0xf1c1"/>
+    <icon name="file-photo-o (alias)" code="0xf1c5"/>
+    <icon name="file-picture-o (alias)" code="0xf1c5"/>
+    <icon name="file-powerpoint-o" code="0xf1c4"/>
+    <icon name="file-sound-o (alias)" code="0xf1c7"/>
+    <icon name="file-text" code="0xf15c"/>
+    <icon name="file-text-o" code="0xf0f6"/>
+    <icon name="file-video-o" code="0xf1c8"/>
+    <icon name="file-word-o" code="0xf1c2"/>
+    <icon name="file-zip-o (alias)" code="0xf1c6"/>
+    <icon name="files-o" code="0xf0c5"/>
+    <icon name="film" code="0xf008"/>
+    <icon name="filter" code="0xf0b0"/>
+    <icon name="fire" code="0xf06d"/>
+    <icon name="fire-extinguisher" code="0xf134"/>
+    <icon name="firefox" code="0xf269"/>
+    <icon name="first-order" code="0xf2b0"/>
+    <icon name="flag" code="0xf024"/>
+    <icon name="flag-checkered" code="0xf11e"/>
+    <icon name="flag-o" code="0xf11d"/>
+    <icon name="flash (alias)" code="0xf0e7"/>
+    <icon name="flask" code="0xf0c3"/>
+    <icon name="flickr" code="0xf16e"/>
+    <icon name="floppy-o" code="0xf0c7"/>
+    <icon name="folder" code="0xf07b"/>
+    <icon name="folder-o" code="0xf114"/>
+    <icon name="folder-open" code="0xf07c"/>
+    <icon name="folder-open-o" code="0xf115"/>
+    <icon name="font" code="0xf031"/>
+    <icon name="font-awesome" code="0xf2b4"/>
+    <icon name="fonticons" code="0xf280"/>
+    <icon name="fort-awesome" code="0xf286"/>
+    <icon name="forumbee" code="0xf211"/>
+    <icon name="forward" code="0xf04e"/>
+    <icon name="foursquare" code="0xf180"/>
+    <icon name="free-code-camp" code="0xf2c5"/>
+    <icon name="frown-o" code="0xf119"/>
+    <icon name="futbol-o" code="0xf1e3"/>
+    <icon name="gamepad" code="0xf11b"/>
+    <icon name="gavel" code="0xf0e3"/>
+    <icon name="gbp" code="0xf154"/>
+    <icon name="ge (alias)" code="0xf1d1"/>
+    <icon name="gear (alias)" code="0xf013"/>
+    <icon name="gears (alias)" code="0xf085"/>
+    <icon name="genderless" code="0xf22d"/>
+    <icon name="get-pocket" code="0xf265"/>
+    <icon name="gg" code="0xf260"/>
+    <icon name="gg-circle" code="0xf261"/>
+    <icon name="gift" code="0xf06b"/>
+    <icon name="git" code="0xf1d3"/>
+    <icon name="git-square" code="0xf1d2"/>
+    <icon name="github" code="0xf09b"/>
+    <icon name="github-alt" code="0xf113"/>
+    <icon name="github-square" code="0xf092"/>
+    <icon name="gitlab" code="0xf296"/>
+    <icon name="gittip (alias)" code="0xf184"/>
+    <icon name="glass" code="0xf000"/>
+    <icon name="glide" code="0xf2a5"/>
+    <icon name="glide-g" code="0xf2a6"/>
+    <icon name="globe" code="0xf0ac"/>
+    <icon name="google" code="0xf1a0"/>
+    <icon name="google-plus" code="0xf0d5"/>
+    <icon name="google-plus-circle (alias)" code="0xf2b3"/>
+    <icon name="google-plus-official" code="0xf2b3"/>
+    <icon name="google-plus-square" code="0xf0d4"/>
+    <icon name="google-wallet" code="0xf1ee"/>
+    <icon name="graduation-cap" code="0xf19d"/>
+    <icon name="gratipay" code="0xf184"/>
+    <icon name="grav" code="0xf2d6"/>
+    <icon name="group (alias)" code="0xf0c0"/>
+    <icon name="h-square" code="0xf0fd"/>
+    <icon name="hacker-news" code="0xf1d4"/>
+    <icon name="hand-grab-o (alias)" code="0xf255"/>
+    <icon name="hand-lizard-o" code="0xf258"/>
+    <icon name="hand-o-down" code="0xf0a7"/>
+    <icon name="hand-o-left" code="0xf0a5"/>
+    <icon name="hand-o-right" code="0xf0a4"/>
+    <icon name="hand-o-up" code="0xf0a6"/>
+    <icon name="hand-paper-o" code="0xf256"/>
+    <icon name="hand-peace-o" code="0xf25b"/>
+    <icon name="hand-pointer-o" code="0xf25a"/>
+    <icon name="hand-rock-o" code="0xf255"/>
+    <icon name="hand-scissors-o" code="0xf257"/>
+    <icon name="hand-spock-o" code="0xf259"/>
+    <icon name="hand-stop-o (alias)" code="0xf256"/>
+    <icon name="handshake-o" code="0xf2b5"/>
+    <icon name="hard-of-hearing (alias)" code="0xf2a4"/>
+    <icon name="hashtag" code="0xf292"/>
+    <icon name="hdd-o" code="0xf0a0"/>
+    <icon name="header" code="0xf1dc"/>
+    <icon name="headphones" code="0xf025"/>
+    <icon name="heart" code="0xf004"/>
+    <icon name="heart-o" code="0xf08a"/>
+    <icon name="heartbeat" code="0xf21e"/>
+    <icon name="history" code="0xf1da"/>
+    <icon name="home" code="0xf015"/>
+    <icon name="hospital-o" code="0xf0f8"/>
+    <icon name="hotel (alias)" code="0xf236"/>
+    <icon name="hourglass" code="0xf254"/>
+    <icon name="hourglass-1 (alias)" code="0xf251"/>
+    <icon name="hourglass-2 (alias)" code="0xf252"/>
+    <icon name="hourglass-3 (alias)" code="0xf253"/>
+    <icon name="hourglass-end" code="0xf253"/>
+    <icon name="hourglass-half" code="0xf252"/>
+    <icon name="hourglass-o" code="0xf250"/>
+    <icon name="hourglass-start" code="0xf251"/>
+    <icon name="houzz" code="0xf27c"/>
+    <icon name="html5" code="0xf13b"/>
+    <icon name="i-cursor" code="0xf246"/>
+    <icon name="id-badge" code="0xf2c1"/>
+    <icon name="id-card" code="0xf2c2"/>
+    <icon name="id-card-o" code="0xf2c3"/>
+    <icon name="ils" code="0xf20b"/>
+    <icon name="image (alias)" code="0xf03e"/>
+    <icon name="imdb" code="0xf2d8"/>
+    <icon name="inbox" code="0xf01c"/>
+    <icon name="indent" code="0xf03c"/>
+    <icon name="industry" code="0xf275"/>
+    <icon name="info" code="0xf129"/>
+    <icon name="info-circle" code="0xf05a"/>
+    <icon name="inr" code="0xf156"/>
+    <icon name="instagram" code="0xf16d"/>
+    <icon name="institution (alias)" code="0xf19c"/>
+    <icon name="internet-explorer" code="0xf26b"/>
+    <icon name="intersex (alias)" code="0xf224"/>
+    <icon name="ioxhost" code="0xf208"/>
+    <icon name="italic" code="0xf033"/>
+    <icon name="joomla" code="0xf1aa"/>
+    <icon name="jpy" code="0xf157"/>
+    <icon name="jsfiddle" code="0xf1cc"/>
+    <icon name="key" code="0xf084"/>
+    <icon name="keyboard-o" code="0xf11c"/>
+    <icon name="krw" code="0xf159"/>
+    <icon name="language" code="0xf1ab"/>
+    <icon name="laptop" code="0xf109"/>
+    <icon name="lastfm" code="0xf202"/>
+    <icon name="lastfm-square" code="0xf203"/>
+    <icon name="leaf" code="0xf06c"/>
+    <icon name="leanpub" code="0xf212"/>
+    <icon name="legal (alias)" code="0xf0e3"/>
+    <icon name="lemon-o" code="0xf094"/>
+    <icon name="level-down" code="0xf149"/>
+    <icon name="level-up" code="0xf148"/>
+    <icon name="life-bouy (alias)" code="0xf1cd"/>
+    <icon name="life-buoy (alias)" code="0xf1cd"/>
+    <icon name="life-ring" code="0xf1cd"/>
+    <icon name="life-saver (alias)" code="0xf1cd"/>
+    <icon name="lightbulb-o" code="0xf0eb"/>
+    <icon name="line-chart" code="0xf201"/>
+    <icon name="link" code="0xf0c1"/>
+    <icon name="linkedin" code="0xf0e1"/>
+    <icon name="linkedin-square" code="0xf08c"/>
+    <icon name="linode" code="0xf2b8"/>
+    <icon name="linux" code="0xf17c"/>
+    <icon name="list" code="0xf03a"/>
+    <icon name="list-alt" code="0xf022"/>
+    <icon name="list-ol" code="0xf0cb"/>
+    <icon name="list-ul" code="0xf0ca"/>
+    <icon name="location-arrow" code="0xf124"/>
+    <icon name="lock" code="0xf023"/>
+    <icon name="long-arrow-down" code="0xf175"/>
+    <icon name="long-arrow-left" code="0xf177"/>
+    <icon name="long-arrow-right" code="0xf178"/>
+    <icon name="long-arrow-up" code="0xf176"/>
+    <icon name="low-vision" code="0xf2a8"/>
+    <icon name="magic" code="0xf0d0"/>
+    <icon name="magnet" code="0xf076"/>
+    <icon name="mail-forward (alias)" code="0xf064"/>
+    <icon name="mail-reply (alias)" code="0xf112"/>
+    <icon name="mail-reply-all (alias)" code="0xf122"/>
+    <icon name="male" code="0xf183"/>
+    <icon name="map" code="0xf279"/>
+    <icon name="map-marker" code="0xf041"/>
+    <icon name="map-o" code="0xf278"/>
+    <icon name="map-pin" code="0xf276"/>
+    <icon name="map-signs" code="0xf277"/>
+    <icon name="mars" code="0xf222"/>
+    <icon name="mars-double" code="0xf227"/>
+    <icon name="mars-stroke" code="0xf229"/>
+    <icon name="mars-stroke-h" code="0xf22b"/>
+    <icon name="mars-stroke-v" code="0xf22a"/>
+    <icon name="maxcdn" code="0xf136"/>
+    <icon name="meanpath" code="0xf20c"/>
+    <icon name="medium" code="0xf23a"/>
+    <icon name="medkit" code="0xf0fa"/>
+    <icon name="meetup" code="0xf2e0"/>
+    <icon name="meh-o" code="0xf11a"/>
+    <icon name="mercury" code="0xf223"/>
+    <icon name="microchip" code="0xf2db"/>
+    <icon name="microphone" code="0xf130"/>
+    <icon name="microphone-slash" code="0xf131"/>
+    <icon name="minus" code="0xf068"/>
+    <icon name="minus-circle" code="0xf056"/>
+    <icon name="minus-square" code="0xf146"/>
+    <icon name="minus-square-o" code="0xf147"/>
+    <icon name="mixcloud" code="0xf289"/>
+    <icon name="mobile" code="0xf10b"/>
+    <icon name="mobile-phone (alias)" code="0xf10b"/>
+    <icon name="modx" code="0xf285"/>
+    <icon name="money" code="0xf0d6"/>
+    <icon name="moon-o" code="0xf186"/>
+    <icon name="mortar-board (alias)" code="0xf19d"/>
+    <icon name="motorcycle" code="0xf21c"/>
+    <icon name="mouse-pointer" code="0xf245"/>
+    <icon name="music" code="0xf001"/>
+    <icon name="navicon (alias)" code="0xf0c9"/>
+    <icon name="neuter" code="0xf22c"/>
+    <icon name="newspaper-o" code="0xf1ea"/>
+    <icon name="object-group" code="0xf247"/>
+    <icon name="object-ungroup" code="0xf248"/>
+    <icon name="odnoklassniki" code="0xf263"/>
+    <icon name="odnoklassniki-square" code="0xf264"/>
+    <icon name="opencart" code="0xf23d"/>
+    <icon name="openid" code="0xf19b"/>
+    <icon name="opera" code="0xf26a"/>
+    <icon name="optin-monster" code="0xf23c"/>
+    <icon name="outdent" code="0xf03b"/>
+    <icon name="pagelines" code="0xf18c"/>
+    <icon name="paint-brush" code="0xf1fc"/>
+    <icon name="paper-plane" code="0xf1d8"/>
+    <icon name="paper-plane-o" code="0xf1d9"/>
+    <icon name="paperclip" code="0xf0c6"/>
+    <icon name="paragraph" code="0xf1dd"/>
+    <icon name="paste (alias)" code="0xf0ea"/>
+    <icon name="pause" code="0xf04c"/>
+    <icon name="pause-circle" code="0xf28b"/>
+    <icon name="pause-circle-o" code="0xf28c"/>
+    <icon name="paw" code="0xf1b0"/>
+    <icon name="paypal" code="0xf1ed"/>
+    <icon name="pencil" code="0xf040"/>
+    <icon name="pencil-square" code="0xf14b"/>
+    <icon name="pencil-square-o" code="0xf044"/>
+    <icon name="percent" code="0xf295"/>
+    <icon name="phone" code="0xf095"/>
+    <icon name="phone-square" code="0xf098"/>
+    <icon name="photo (alias)" code="0xf03e"/>
+    <icon name="picture-o" code="0xf03e"/>
+    <icon name="pie-chart" code="0xf200"/>
+    <icon name="pied-piper" code="0xf2ae"/>
+    <icon name="pied-piper-alt" code="0xf1a8"/>
+    <icon name="pied-piper-pp" code="0xf1a7"/>
+    <icon name="pinterest" code="0xf0d2"/>
+    <icon name="pinterest-p" code="0xf231"/>
+    <icon name="pinterest-square" code="0xf0d3"/>
+    <icon name="plane" code="0xf072"/>
+    <icon name="play" code="0xf04b"/>
+    <icon name="play-circle" code="0xf144"/>
+    <icon name="play-circle-o" code="0xf01d"/>
+    <icon name="plug" code="0xf1e6"/>
+    <icon name="plus" code="0xf067"/>
+    <icon name="plus-circle" code="0xf055"/>
+    <icon name="plus-square" code="0xf0fe"/>
+    <icon name="plus-square-o" code="0xf196"/>
+    <icon name="podcast" code="0xf2ce"/>
+    <icon name="power-off" code="0xf011"/>
+    <icon name="print" code="0xf02f"/>
+    <icon name="product-hunt" code="0xf288"/>
+    <icon name="puzzle-piece" code="0xf12e"/>
+    <icon name="qq" code="0xf1d6"/>
+    <icon name="qrcode" code="0xf029"/>
+    <icon name="question" code="0xf128"/>
+    <icon name="question-circle" code="0xf059"/>
+    <icon name="question-circle-o" code="0xf29c"/>
+    <icon name="quora" code="0xf2c4"/>
+    <icon name="quote-left" code="0xf10d"/>
+    <icon name="quote-right" code="0xf10e"/>
+    <icon name="ra (alias)" code="0xf1d0"/>
+    <icon name="random" code="0xf074"/>
+    <icon name="ravelry" code="0xf2d9"/>
+    <icon name="rebel" code="0xf1d0"/>
+    <icon name="recycle" code="0xf1b8"/>
+    <icon name="reddit" code="0xf1a1"/>
+    <icon name="reddit-alien" code="0xf281"/>
+    <icon name="reddit-square" code="0xf1a2"/>
+    <icon name="refresh" code="0xf021"/>
+    <icon name="registered" code="0xf25d"/>
+    <icon name="remove (alias)" code="0xf00d"/>
+    <icon name="renren" code="0xf18b"/>
+    <icon name="reorder (alias)" code="0xf0c9"/>
+    <icon name="repeat" code="0xf01e"/>
+    <icon name="reply" code="0xf112"/>
+    <icon name="reply-all" code="0xf122"/>
+    <icon name="resistance (alias)" code="0xf1d0"/>
+    <icon name="retweet" code="0xf079"/>
+    <icon name="rmb (alias)" code="0xf157"/>
+    <icon name="road" code="0xf018"/>
+    <icon name="rocket" code="0xf135"/>
+    <icon name="rotate-left (alias)" code="0xf0e2"/>
+    <icon name="rotate-right (alias)" code="0xf01e"/>
+    <icon name="rouble (alias)" code="0xf158"/>
+    <icon name="rss" code="0xf09e"/>
+    <icon name="rss-square" code="0xf143"/>
+    <icon name="rub" code="0xf158"/>
+    <icon name="ruble (alias)" code="0xf158"/>
+    <icon name="rupee (alias)" code="0xf156"/>
+    <icon name="s15 (alias)" code="0xf2cd"/>
+    <icon name="safari" code="0xf267"/>
+    <icon name="save (alias)" code="0xf0c7"/>
+    <icon name="scissors" code="0xf0c4"/>
+    <icon name="scribd" code="0xf28a"/>
+    <icon name="search" code="0xf002"/>
+    <icon name="search-minus" code="0xf010"/>
+    <icon name="search-plus" code="0xf00e"/>
+    <icon name="sellsy" code="0xf213"/>
+    <icon name="send (alias)" code="0xf1d8"/>
+    <icon name="send-o (alias)" code="0xf1d9"/>
+    <icon name="server" code="0xf233"/>
+    <icon name="share" code="0xf064"/>
+    <icon name="share-alt" code="0xf1e0"/>
+    <icon name="share-alt-square" code="0xf1e1"/>
+    <icon name="share-square" code="0xf14d"/>
+    <icon name="share-square-o" code="0xf045"/>
+    <icon name="shekel (alias)" code="0xf20b"/>
+    <icon name="sheqel (alias)" code="0xf20b"/>
+    <icon name="shield" code="0xf132"/>
+    <icon name="ship" code="0xf21a"/>
+    <icon name="shirtsinbulk" code="0xf214"/>
+    <icon name="shopping-bag" code="0xf290"/>
+    <icon name="shopping-basket" code="0xf291"/>
+    <icon name="shopping-cart" code="0xf07a"/>
+    <icon name="shower" code="0xf2cc"/>
+    <icon name="sign-in" code="0xf090"/>
+    <icon name="sign-language" code="0xf2a7"/>
+    <icon name="sign-out" code="0xf08b"/>
+    <icon name="signal" code="0xf012"/>
+    <icon name="signing (alias)" code="0xf2a7"/>
+    <icon name="simplybuilt" code="0xf215"/>
+    <icon name="sitemap" code="0xf0e8"/>
+    <icon name="skyatlas" code="0xf216"/>
+    <icon name="skype" code="0xf17e"/>
+    <icon name="slack" code="0xf198"/>
+    <icon name="sliders" code="0xf1de"/>
+    <icon name="slideshare" code="0xf1e7"/>
+    <icon name="smile-o" code="0xf118"/>
+    <icon name="snapchat" code="0xf2ab"/>
+    <icon name="snapchat-ghost" code="0xf2ac"/>
+    <icon name="snapchat-square" code="0xf2ad"/>
+    <icon name="snowflake-o" code="0xf2dc"/>
+    <icon name="soccer-ball-o (alias)" code="0xf1e3"/>
+    <icon name="sort" code="0xf0dc"/>
+    <icon name="sort-alpha-asc" code="0xf15d"/>
+    <icon name="sort-alpha-desc" code="0xf15e"/>
+    <icon name="sort-amount-asc" code="0xf160"/>
+    <icon name="sort-amount-desc" code="0xf161"/>
+    <icon name="sort-asc" code="0xf0de"/>
+    <icon name="sort-desc" code="0xf0dd"/>
+    <icon name="sort-down (alias)" code="0xf0dd"/>
+    <icon name="sort-numeric-asc" code="0xf162"/>
+    <icon name="sort-numeric-desc" code="0xf163"/>
+    <icon name="sort-up (alias)" code="0xf0de"/>
+    <icon name="soundcloud" code="0xf1be"/>
+    <icon name="space-shuttle" code="0xf197"/>
+    <icon name="spinner" code="0xf110"/>
+    <icon name="spoon" code="0xf1b1"/>
+    <icon name="spotify" code="0xf1bc"/>
+    <icon name="square" code="0xf0c8"/>
+    <icon name="square-o" code="0xf096"/>
+    <icon name="stack-exchange" code="0xf18d"/>
+    <icon name="stack-overflow" code="0xf16c"/>
+    <icon name="star" code="0xf005"/>
+    <icon name="star-half" code="0xf089"/>
+    <icon name="star-half-empty (alias)" code="0xf123"/>
+    <icon name="star-half-full (alias)" code="0xf123"/>
+    <icon name="star-half-o" code="0xf123"/>
+    <icon name="star-o" code="0xf006"/>
+    <icon name="steam" code="0xf1b6"/>
+    <icon name="steam-square" code="0xf1b7"/>
+    <icon name="step-backward" code="0xf048"/>
+    <icon name="step-forward" code="0xf051"/>
+    <icon name="stethoscope" code="0xf0f1"/>
+    <icon name="sticky-note" code="0xf249"/>
+    <icon name="sticky-note-o" code="0xf24a"/>
+    <icon name="stop" code="0xf04d"/>
+    <icon name="stop-circle" code="0xf28d"/>
+    <icon name="stop-circle-o" code="0xf28e"/>
+    <icon name="street-view" code="0xf21d"/>
+    <icon name="strikethrough" code="0xf0cc"/>
+    <icon name="stumbleupon" code="0xf1a4"/>
+    <icon name="stumbleupon-circle" code="0xf1a3"/>
+    <icon name="subscript" code="0xf12c"/>
+    <icon name="subway" code="0xf239"/>
+    <icon name="suitcase" code="0xf0f2"/>
+    <icon name="sun-o" code="0xf185"/>
+    <icon name="superpowers" code="0xf2dd"/>
+    <icon name="superscript" code="0xf12b"/>
+    <icon name="support (alias)" code="0xf1cd"/>
+    <icon name="table" code="0xf0ce"/>
+    <icon name="tablet" code="0xf10a"/>
+    <icon name="tachometer" code="0xf0e4"/>
+    <icon name="tag" code="0xf02b"/>
+    <icon name="tags" code="0xf02c"/>
+    <icon name="tasks" code="0xf0ae"/>
+    <icon name="taxi" code="0xf1ba"/>
+    <icon name="telegram" code="0xf2c6"/>
+    <icon name="television" code="0xf26c"/>
+    <icon name="tencent-weibo" code="0xf1d5"/>
+    <icon name="terminal" code="0xf120"/>
+    <icon name="text-height" code="0xf034"/>
+    <icon name="text-width" code="0xf035"/>
+    <icon name="th" code="0xf00a"/>
+    <icon name="th-large" code="0xf009"/>
+    <icon name="th-list" code="0xf00b"/>
+    <icon name="themeisle" code="0xf2b2"/>
+    <icon name="thermometer (alias)" code="0xf2c7"/>
+    <icon name="thermometer-0 (alias)" code="0xf2cb"/>
+    <icon name="thermometer-1 (alias)" code="0xf2ca"/>
+    <icon name="thermometer-2 (alias)" code="0xf2c9"/>
+    <icon name="thermometer-3 (alias)" code="0xf2c8"/>
+    <icon name="thermometer-4 (alias)" code="0xf2c7"/>
+    <icon name="thermometer-empty" code="0xf2cb"/>
+    <icon name="thermometer-full" code="0xf2c7"/>
+    <icon name="thermometer-half" code="0xf2c9"/>
+    <icon name="thermometer-quarter" code="0xf2ca"/>
+    <icon name="thermometer-three-quarters" code="0xf2c8"/>
+    <icon name="thumb-tack" code="0xf08d"/>
+    <icon name="thumbs-down" code="0xf165"/>
+    <icon name="thumbs-o-down" code="0xf088"/>
+    <icon name="thumbs-o-up" code="0xf087"/>
+    <icon name="thumbs-up" code="0xf164"/>
+    <icon name="ticket" code="0xf145"/>
+    <icon name="times" code="0xf00d"/>
+    <icon name="times-circle" code="0xf057"/>
+    <icon name="times-circle-o" code="0xf05c"/>
+    <icon name="times-rectangle (alias)" code="0xf2d3"/>
+    <icon name="times-rectangle-o (alias)" code="0xf2d4"/>
+    <icon name="tint" code="0xf043"/>
+    <icon name="toggle-down (alias)" code="0xf150"/>
+    <icon name="toggle-left (alias)" code="0xf191"/>
+    <icon name="toggle-off" code="0xf204"/>
+    <icon name="toggle-on" code="0xf205"/>
+    <icon name="toggle-right (alias)" code="0xf152"/>
+    <icon name="toggle-up (alias)" code="0xf151"/>
+    <icon name="trademark" code="0xf25c"/>
+    <icon name="train" code="0xf238"/>
+    <icon name="transgender" code="0xf224"/>
+    <icon name="transgender-alt" code="0xf225"/>
+    <icon name="trash" code="0xf1f8"/>
+    <icon name="trash-o" code="0xf014"/>
+    <icon name="tree" code="0xf1bb"/>
+    <icon name="trello" code="0xf181"/>
+    <icon name="tripadvisor" code="0xf262"/>
+    <icon name="trophy" code="0xf091"/>
+    <icon name="truck" code="0xf0d1"/>
+    <icon name="try" code="0xf195"/>
+    <icon name="tty" code="0xf1e4"/>
+    <icon name="tumblr" code="0xf173"/>
+    <icon name="tumblr-square" code="0xf174"/>
+    <icon name="turkish-lira (alias)" code="0xf195"/>
+    <icon name="tv (alias)" code="0xf26c"/>
+    <icon name="twitch" code="0xf1e8"/>
+    <icon name="twitter" code="0xf099"/>
+    <icon name="twitter-square" code="0xf081"/>
+    <icon name="umbrella" code="0xf0e9"/>
+    <icon name="underline" code="0xf0cd"/>
+    <icon name="undo" code="0xf0e2"/>
+    <icon name="universal-access" code="0xf29a"/>
+    <icon name="university" code="0xf19c"/>
+    <icon name="unlink (alias)" code="0xf127"/>
+    <icon name="unlock" code="0xf09c"/>
+    <icon name="unlock-alt" code="0xf13e"/>
+    <icon name="unsorted (alias)" code="0xf0dc"/>
+    <icon name="upload" code="0xf093"/>
+    <icon name="usb" code="0xf287"/>
+    <icon name="usd" code="0xf155"/>
+    <icon name="user" code="0xf007"/>
+    <icon name="user-circle" code="0xf2bd"/>
+    <icon name="user-circle-o" code="0xf2be"/>
+    <icon name="user-md" code="0xf0f0"/>
+    <icon name="user-o" code="0xf2c0"/>
+    <icon name="user-plus" code="0xf234"/>
+    <icon name="user-secret" code="0xf21b"/>
+    <icon name="user-times" code="0xf235"/>
+    <icon name="users" code="0xf0c0"/>
+    <icon name="vcard (alias)" code="0xf2bb"/>
+    <icon name="vcard-o (alias)" code="0xf2bc"/>
+    <icon name="venus" code="0xf221"/>
+    <icon name="venus-double" code="0xf226"/>
+    <icon name="venus-mars" code="0xf228"/>
+    <icon name="viacoin" code="0xf237"/>
+    <icon name="viadeo" code="0xf2a9"/>
+    <icon name="viadeo-square" code="0xf2aa"/>
+    <icon name="video-camera" code="0xf03d"/>
+    <icon name="vimeo" code="0xf27d"/>
+    <icon name="vimeo-square" code="0xf194"/>
+    <icon name="vine" code="0xf1ca"/>
+    <icon name="vk" code="0xf189"/>
+    <icon name="volume-control-phone" code="0xf2a0"/>
+    <icon name="volume-down" code="0xf027"/>
+    <icon name="volume-off" code="0xf026"/>
+    <icon name="volume-up" code="0xf028"/>
+    <icon name="warning (alias)" code="0xf071"/>
+    <icon name="wechat (alias)" code="0xf1d7"/>
+    <icon name="weibo" code="0xf18a"/>
+    <icon name="weixin" code="0xf1d7"/>
+    <icon name="whatsapp" code="0xf232"/>
+    <icon name="wheelchair" code="0xf193"/>
+    <icon name="wheelchair-alt" code="0xf29b"/>
+    <icon name="wifi" code="0xf1eb"/>
+    <icon name="wikipedia-w" code="0xf266"/>
+    <icon name="window-close" code="0xf2d3"/>
+    <icon name="window-close-o" code="0xf2d4"/>
+    <icon name="window-maximize" code="0xf2d0"/>
+    <icon name="window-minimize" code="0xf2d1"/>
+    <icon name="window-restore" code="0xf2d2"/>
+    <icon name="windows" code="0xf17a"/>
+    <icon name="won (alias)" code="0xf159"/>
+    <icon name="wordpress" code="0xf19a"/>
+    <icon name="wpbeginner" code="0xf297"/>
+    <icon name="wpexplorer" code="0xf2de"/>
+    <icon name="wpforms" code="0xf298"/>
+    <icon name="wrench" code="0xf0ad"/>
+    <icon name="xing" code="0xf168"/>
+    <icon name="xing-square" code="0xf169"/>
+    <icon name="y-combinator" code="0xf23b"/>
+    <icon name="y-combinator-square (alias)" code="0xf1d4"/>
+    <icon name="yahoo" code="0xf19e"/>
+    <icon name="yc (alias)" code="0xf23b"/>
+    <icon name="yc-square (alias)" code="0xf1d4"/>
+    <icon name="yelp" code="0xf1e9"/>
+    <icon name="yen (alias)" code="0xf157"/>
+    <icon name="yoast" code="0xf2b1"/>
+    <icon name="youtube" code="0xf167"/>
+    <icon name="youtube-play" code="0xf16a"/>
+    <icon name="youtube-square" code="0xf166"/>
+</fonticons>
